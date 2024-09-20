@@ -16,7 +16,6 @@ public class O1 {
 	        	
 	            int poeng = Integer.parseInt(poenginn);
 
-	            
 	            String karakter;
 	            if (poeng >= 90 && poeng <= 100) {
 	            	karakter = "A";
